@@ -1,4 +1,4 @@
 <plugin>
-    <name>divbyzero</name>
+    <name>typecomparer</name>
     <classname>comparer.TypeComparerPlugin</classname>
 </plugin>
